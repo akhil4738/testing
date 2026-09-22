@@ -15,12 +15,10 @@ obj1=Hai()
 obj2=Hello()
 obj1.start()
 obj2.start()
-
 # new State t1=Hello()
 # t1.start()
 # running 
 # wait/block 
-
 from threading import Thread
 import time
 class MyThread(Thread):
