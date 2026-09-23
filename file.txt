@@ -1,0 +1,7 @@
+Hello iam a text document Im a line written using append mode
+
+ Im a line written using append mode
+
+ Im a line written using append mode
+
+ Im a line written using append mode
